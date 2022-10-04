@@ -108,7 +108,7 @@ html {
         padding-left: 0;
     }
     .tab-courses {
-        padding: 0px 0 120px;
+        padding: 0px 0 20px;
         position: absolute;
         top: 70px;
         right: 0;
@@ -336,7 +336,7 @@ html {
 
 @media (max-width:  767px) {
     .container{
-        padding: 0 5px;
+        padding: 0 15px;
 }
     .d .container{
         grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -692,6 +692,6 @@ header .span1 {
 @media (max-width:767px) {
     .tab-courses {
             height: fit-content;
-            padding-bottom: 100px;
+            padding-bottom: 20px;
         }
     }
